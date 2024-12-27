@@ -128,6 +128,13 @@ searchinput.addEventListener("keydown", async function (event) {
   }
 });
 
-city("London");
-city("Paris");
-city("Mumbai");
+
+city("Nairobi");  // Capital city of Kenya
+city("Dar es Salaam");  // Major city in Tanzania
+city("Kampala");  // Capital city of Uganda
+city("Kigali");  // Capital city of Rwanda
+city("Bujumbura");  // Capital city of Burundi
+city("Goma");  // Major city in Democratic Republic of Congo
+city("Kinshasa");  // Capital city of Democratic Republic of Congo
+city("Eldoret");  // Major city in Kenya
+city("Mombasa");  // Major city in Kenya
